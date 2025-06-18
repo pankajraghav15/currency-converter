@@ -38,7 +38,8 @@ cd currency-converter
 currency-converter/
 ├── index.html
 ├── style.css
-└── script.js
+├── code.js
+└── app.js
   
 ## 🤝 Contributing
 We welcome contributions! If you'd like to improve styling, add animations, or enhance responsiveness, feel free to submit a pull request.
